@@ -1,0 +1,6 @@
+name = "QuiltCanary"
+uuid = "b447e293-35ea-5a26-9ff7-553b00f3d099"
+repo = ""
+
+[compat]
+julia = "1.9"
